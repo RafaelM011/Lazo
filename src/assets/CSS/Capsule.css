@@ -1,0 +1,21 @@
+.capsule{
+    position: relative;
+    width: 210px;
+    height: 363px;
+    left: 53px;
+}
+
+.capsuleImage{
+    width: 210px;
+    height: 305.22px;
+    background-image: url('https://cdn.forcast.com.au/media/catalog/product/cache/07426fd1f727adbbafc671d5c3762bb2/d/r/dr1111emd_first_cm_1.jpg');
+    background-repeat: no-repeat;
+    background-size: auto 305.22px;
+    background-position: 0px -10px;
+}
+
+.capsuleInfo{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 5px;
+}

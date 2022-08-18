@@ -1,0 +1,28 @@
+.brandSection{
+    width: 100vw;
+    height: 280px;
+    margin: 0;
+}
+
+/* .brandSection > h1 {
+    color: #5A90A8;
+} */
+
+.brandsSlider{
+    position: absolute;
+    overflow: hidden;
+    width: 95vw;   
+    left: 2vw;
+    height: 200px;
+}
+
+.brandsInnerSlider{
+    position: absolute;
+    width: inherit;
+    top: 0px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 50px;
+    margin: 30px 0px;
+    pointer-events: none;
+}
