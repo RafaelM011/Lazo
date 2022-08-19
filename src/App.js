@@ -7,7 +7,7 @@ import ProductDetail from './pages/ProductDetail/ProductDetail';
 import Products from './pages/Products/Products';
 
 function App() {  
-  console.log('hello');
+  console.log('hello world');
   return (
     <>
       <Routes>
